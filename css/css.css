@@ -46,11 +46,11 @@ body{
 }
 
 .space{
-	padding-top: 41.5em;
+	margin-top: 56%;
 }
 .callbacks_container{
 	color:#ffffff;
-	margin-left: 29%;
+	height: 50px;
 }
 .correction{
 	margin-top: 6%;
