@@ -1,0 +1,134 @@
+/*-- //header --*/
+#background{
+	width: 120%;
+	filter:blur(3px) brightness(0.7);
+	padding-right: 20%;
+	opacity: 1;
+	image-orientation: from-image;
+}
+.header {
+    position: fixed;
+    text-align: center;
+    z-index: -2;
+}
+.banner{
+	padding-top: 5.5em;
+	text-align: center;
+	padding-left: 35%;
+	padding-right: 30%;
+	text-transform: uppercase;
+	position: fixed;
+	z-index: -2;
+}
+.banner img{
+	width:15%;
+	border:5px solid #00008b;
+	vertical-align: middle;
+	text-align: center;
+}
+.main{
+	height: -webkit-fill-available;
+	padding-top: 3.5em;
+}
+#photo{
+	width: 18%;
+
+}
+.banner h2{
+	font-size: 2.5em;
+	color:#ffffff;
+	z-index: -2;
+}
+.banner span{
+	color:	#FFFAFA;
+}
+body{
+	background-color: #2F4F4F;
+}
+
+.space{
+	padding-top: 41.5em;
+}
+.callbacks_container{
+	color:#ffffff;
+	padding-right: 70%;
+}
+.correction{
+	padding-right: 65%;
+}
+.resume-content{
+	padding-top: 55%;
+}
+.academics{
+	background: #f3f2f2;
+}
+.academics .institutions{
+	padding: 6em 4em;
+	width:50%;
+	float:left;
+}
+.academics .scheme{
+	margin-top: 2em;
+}
+.scheme-date{
+	float:left;
+	width: 30%;
+	padding-left: 14px;
+	border-left:5px solid blue;
+}
+.scheme-date h6{
+	font-style: italic;
+	color:darkgreen;
+	text-transform: uppercase;
+}
+.scheme-institution{
+	float:right;
+	width: 69%;
+	text-align: justify;
+}
+.scheme-topic.bordes{
+	margin-right: 0em;
+	margin-left: 0em;
+	margin-top: 0.3em;
+	margin-bottom: 1em;
+	border:1px solid #dddddd;
+	border-left: none;
+	border-right: none;
+	padding-top: 1em;
+}
+.arbolSkills{
+	padding: 0 4em;
+	margin-top: 2em;
+}
+.arbolSkills p{
+	margin-top: 0.7em;
+	margin-bottom: 0.01em;
+}
+.skills{
+	float: right;
+	padding: 6em 4em;
+    width: 50%;
+}
+.bar_group {
+    position: relative;
+    z-index: 1;
+}
+
+.bar_group__bar.thin {
+    height: 17px;
+    background: #44c7f4;
+    margin-bottom: 35px;
+    -webkit-transition: width 2s;
+    transition: width 2s;
+}
+.bar_group__bar.thin::before {
+    width: 100%;
+    height: 17px;
+    background: #fff;
+}
+body .bar_group__bar.thin::before, body .bar_group__bar.thick::before {
+    display: block;
+    content: '';
+    position: absolute;
+    z-index: -1;
+}
