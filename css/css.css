@@ -89,9 +89,9 @@ body{
 .scheme-topic.bordes{
 	margin-right: 0em;
 	margin-left: 0em;
-	margin-top: 0.3em;
+	margin-top: 0.0em;
 	margin-bottom: 1em;
-	border:1px solid #dddddd;
+	border-bottom:1px solid #dddddd;
 	border-left: none;
 	border-right: none;
 	padding-top: 1em;
@@ -137,4 +137,8 @@ body .bar_group__bar.thin::before, body .bar_group__bar.thick::before {
 }
 .reformar2{
 	margin-left:5%;
+}
+.academics h3{
+	border-bottom: 1px solid darkblue;
+	margin-left: 15%;
 }
