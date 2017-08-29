@@ -68,6 +68,7 @@ body{
 	padding-left:5%;
 	width:50%;
 	float:left;
+	min-width:250px;
 }
 .academics .scheme{
 	margin-top: 2em;
@@ -110,7 +111,8 @@ body{
 	float: right;
 	padding: 13% 1%;
 	padding-right:5%;
-    width: 50%;
+   	width: 50%;
+	min-width:250px;
 }
 .bar_group {
     position: relative;
