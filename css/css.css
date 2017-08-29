@@ -143,5 +143,5 @@ body .bar_group__bar.thin::before, body .bar_group__bar.thick::before {
 	margin-left: 15%;
 }
 #callbacks1_s1, #callbacks1_s0, #callbacks1_s2{
-	width_100%;
+	width:100%;
 }
