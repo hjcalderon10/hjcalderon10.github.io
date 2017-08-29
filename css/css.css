@@ -65,6 +65,7 @@ body{
 }
 .academics .institutions{
 	padding: 13% 1%;
+	padding-left:5%;
 	width:50%;
 	float:left;
 }
@@ -108,6 +109,7 @@ body{
 .skills{
 	float: right;
 	padding: 13% 1%;
+	padding-right:5%;
     width: 50%;
 }
 .bar_group {
@@ -139,7 +141,6 @@ body .bar_group__bar.thin::before, body .bar_group__bar.thick::before {
 }
 .academics h3{
 	border-bottom: 1px solid darkblue;
-	margin-left: 15%;
 }
 #callbacks1_s1, #callbacks1_s0, #callbacks1_s2{
 	width:100%;
