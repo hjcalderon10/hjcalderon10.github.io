@@ -64,7 +64,7 @@ body{
 	background: #f3f2f2;
 }
 .academics .institutions{
-	padding: 6em 4em;
+	padding: 13% 1%;
 	width:50%;
 	float:left;
 }
@@ -107,7 +107,7 @@ body{
 }
 .skills{
 	float: right;
-	padding: 6em 4em;
+	padding: 13% 1%;
     width: 50%;
 }
 .bar_group {
