@@ -43,6 +43,7 @@
 }
 body{
 	background-color: #2F4F4F;
+	word-wrap:break-word;
 }
 
 .space{
