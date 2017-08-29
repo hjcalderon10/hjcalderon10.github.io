@@ -68,10 +68,11 @@ body{
 	padding-left:5%;
 	width:50%;
 	float:left;
-	min-width:250px;
+	min-width:307px;
 }
 .academics .scheme{
 	margin-top: 2em;
+	min-width:306px;
 }
 .scheme-date{
 	float:left;
@@ -98,6 +99,8 @@ body{
 	border-left: none;
 	border-right: none;
 	padding-top: 1em;
+}
+.scheme-topic{	
 	min-width:305px;
 }
 .arbolSkills{
