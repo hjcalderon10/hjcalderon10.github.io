@@ -133,10 +133,8 @@ body .bar_group__bar.thin::before, body .bar_group__bar.thick::before {
     z-index: -1;
 }
 .reformar{
-	margin-right: 25%;
 }
 .reformar2{
-	margin-left:5%;
 }
 .academics h3{
 	border-bottom: 1px solid darkblue;
