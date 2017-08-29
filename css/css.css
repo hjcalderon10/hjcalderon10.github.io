@@ -98,10 +98,11 @@ body{
 	border-left: none;
 	border-right: none;
 	padding-top: 1em;
+	min-width:305px;
 }
 .arbolSkills{
-	padding: 0 4em;
-	margin-top: 2em;
+	padding: 0 4%;
+	margin-top: 11%;
 }
 .arbolSkills p{
 	margin-top: 0.7em;
