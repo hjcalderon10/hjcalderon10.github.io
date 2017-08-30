@@ -153,3 +153,67 @@ body .bar_group__bar.thin::before, body .bar_group__bar.thick::before {
 #callbacks1_s1, #callbacks1_s0, #callbacks1_s2{
 	width:100%;
 }
+.linea{
+	border-top: 2px solid darkblue;
+}
+.hobbies{
+	background:#043E88;
+	color:white;
+}
+ul.social li a i.fa {
+	color: #fff;
+    font-size: 15px;
+    line-height: 31px;
+    text-align: center;
+    transition: all 0.5s ease-in-out;
+    -webkit-transition: all 0.5s ease-in-out;
+    -moz-transition: all 0.5s ease-in-out;
+    -o-transition: all 0.5s ease-in-out;
+    -ms-transition: all 0.5s ease-in-out;
+    width: 36px;
+    height: 36px;
+    border: 2px solid #fff;
+}
+.social>li{
+	display: inline-block;
+	margin-right: 3%;
+}
+.social.row{
+	height: 5em;
+	align-items: center;
+	text-align: center;
+}
+.socialList{
+	margin-top:15%;
+}
+.row.social{
+	background: black;
+}
+.hobbies>h3{
+	text-align: center;
+	margin-top: 2em;
+}
+
+.hobbies img{
+	width:100%;
+}
+.rotada{
+	transform: rotate(90deg);
+	margin-top: 27% !important;
+	width:122%;
+}
+#inicial{
+	margin-top: 20% !important;
+}
+.hobbies .row{
+	text-align: center;
+}
+.hobbies .col-md-6{
+	display: block;
+}
+.hobbies .row div{
+	margin-top: 0%;
+}
+#inicial1{
+	margin-top: 5%;
+}
